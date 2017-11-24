@@ -1,7 +1,7 @@
 ## JS-Challenge-Day-2
 Its a clock with moving hour, minute and second hands.
 
-![Screenshot](clock.jpg)
+![Screenshot](clock.png)
 
 # The html
 
